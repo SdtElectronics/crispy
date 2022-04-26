@@ -1,0 +1,33 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#(c) SnapEDA 2016 (snapeda.com)
+#This work is licensed under a Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA) with Design Exception 1.0
+#
+# USB1135-15-9-L-B_REVA1
+#
+DEF USB1135-15-9-L-B_REVA1 J 0 40 Y Y 1 L N
+F0 "J" -200 550 50 H V L BNN
+F1 "USB1135-15-9-L-B_REVA1" -200 -700 50 H V L BNN
+F2 "GCT_USB1135-15-9-L-B_REVA1" 0 0 50 H I L BNN
+F3 "" 0 0 50 H I L BNN
+F4 "Manufacturer Recommendations" 0 0 50 H I L BNN "STANDARD"
+F5 "7.2 mm" 0 0 50 H I L BNN "MAXIMUM_PACKAGE_HEIGHT"
+F6 "A1" 0 0 50 H I L BNN "PARTREV"
+F7 "GCT" 0 0 50 H I L BNN "MANUFACTURER"
+DRAW
+S -200 -600 200 500 0 0 10 f
+X D- 2 -400 300 200 R 40 40 0 0 B 
+X D+ 3 -400 200 200 R 40 40 0 0 B 
+X VBUS 1 -400 400 200 R 40 40 0 0 W 
+X GND 4 -400 100 200 R 40 40 0 0 W 
+X GND 7 -400 100 200 R 40 40 0 0 W 
+X SSRX- 5 -400 0 200 R 40 40 0 0 B 
+X SSRX+ 6 -400 -100 200 R 40 40 0 0 B 
+X SSTX- 8 -400 -200 200 R 40 40 0 0 B 
+X SSTX+ 9 -400 -300 200 R 40 40 0 0 B 
+X SHIELD S1 -400 -500 200 R 40 40 0 0 P 
+X SHIELD S2 -400 -500 200 R 40 40 0 0 P 
+ENDDRAW
+ENDDEF
+#
+# End Library

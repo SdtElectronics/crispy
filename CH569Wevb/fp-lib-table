@@ -1,0 +1,7 @@
+(fp_lib_table
+  (lib (name "USB4050-XX-X_REVA")(type "KiCad")(uri "${KIPRJMOD}/lib/USB4050-XX-X_REVA")(options "")(descr ""))
+  (lib (name "USB1135-15-9-L-B_REVA1")(type "KiCad")(uri "${KIPRJMOD}/lib/USB1135-15-9-L-B_REVA1")(options "")(descr ""))
+  (lib (name "USB4125-GF-A_REVA")(type "KiCad")(uri "${KIPRJMOD}/lib/USB4125-GF-A_REVA")(options "")(descr ""))
+  (lib (name "USB3.0Sym")(type "KiCad")(uri "${KIPRJMOD}/lib/USB3.0Sym.pretty")(options "")(descr ""))
+  (lib (name "569")(type "KiCad")(uri "${KIPRJMOD}/lib/569.pretty")(options "")(descr ""))
+)

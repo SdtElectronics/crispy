@@ -1,0 +1,7 @@
+(sym_lib_table
+  (lib (name "CH569")(type "Legacy")(uri "${KIPRJMOD}/lib/CH569.lib")(options "")(descr ""))
+  (lib (name "2021-10-05_14-05-45")(type "Legacy")(uri "${KIPRJMOD}/lib/ul_SY8089AAAC/KiCAD/2021-10-05_14-05-45/2021-10-05_14-05-45.lib")(options "")(descr ""))
+  (lib (name "USB4125-GF-A_REVA")(type "Legacy")(uri "${KIPRJMOD}/lib/USB4125-GF-A_REVA/USB4125-GF-A_REVA.lib")(options "")(descr ""))
+  (lib (name "CH549G")(type "Legacy")(uri "${KIPRJMOD}/lib/CH549G.lib")(options "")(descr ""))
+  (lib (name "USB4050-XX-X_REVA")(type "Legacy")(uri "${KIPRJMOD}/lib/USB4050-XX-X_REVA/USB4050-XX-X_REVA.lib")(options "")(descr ""))
+)
